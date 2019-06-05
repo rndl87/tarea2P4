@@ -1,0 +1,47 @@
+﻿body {
+}
+
+input[type="text"]{
+    border-radius:5px;
+}
+#divPorcNotas input[type="text"]{
+    margin-left:0.6em;
+}
+#divPorcNotas #txtPorcTareas{
+    margin-left:1.7em;
+}
+#divPorcNotas #txtPorcQuices{
+    margin-left:1.4em;
+}
+
+#divNotasQuices input[type="text"]{
+    margin-left:3.3em;
+}
+#divNotasQuices #txtNotaQuiz{
+    margin-left:0.7em;
+}
+
+#divNotasTareas input[type="text"]{
+    margin-left:2.6em;
+}
+#divNotasTareas #txtNotaTareas{
+    margin-left:0.6em;
+}
+
+#divNotasParciales input[type="text"]{
+    margin-left:0.6em;
+}
+
+#divResultado #txtNotaFinal{
+    margin: 0 0.6em 0 0.6em;
+}
+
+.form-inline label{ 
+    float:left;
+    margin: 0 0 1em 0;
+}
+body .valerror[style*="inline"]
+{
+    display:block !Important;
+    color:red;
+}

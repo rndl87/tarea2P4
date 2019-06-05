@@ -1,0 +1,22 @@
+﻿body {
+}
+img{    
+    width: 100%;
+    min-height: 30%;
+}
+em{
+    font-size: 0.5rem;
+}
+.error{    
+    color: red;
+}
+.esPalindromo{    
+    color: darkolivegreen;    
+}
+.noEsPalindromo{    
+    color: coral;
+}
+#btnCalcular{
+    color: white;
+    background-color: #648eb6;
+}

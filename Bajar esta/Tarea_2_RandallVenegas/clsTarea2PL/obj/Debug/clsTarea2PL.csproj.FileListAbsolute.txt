@@ -1,0 +1,96 @@
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\csc.exe
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\vbc.exe
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.dll.config
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.pdb
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2BLL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2DAL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2BLL.pdb
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2DAL.pdb
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\csc.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\vbc.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2PL.dll.config
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2PL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2PL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2DAL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\clsTarea2DAL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\obj\Debug\clsTarea2PL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\obj\Debug\clsTarea2PL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2PL\obj\Debug\clsTarea2PL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\csc.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\vbc.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2PL.dll.config
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2PL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2PL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2DAL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\clsTarea2DAL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\obj\Debug\clsTarea2PL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\obj\Debug\clsTarea2PL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2PL\obj\Debug\clsTarea2PL.pdb
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.dll.config
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2PL.pdb
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2BLL.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2DAL.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2BLL.pdb
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\clsTarea2DAL.pdb
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.dll
+C:\Users\User\Desktop\Tarea_2_RandallVenegas\clsTarea2PL\obj\Debug\clsTarea2PL.pdb

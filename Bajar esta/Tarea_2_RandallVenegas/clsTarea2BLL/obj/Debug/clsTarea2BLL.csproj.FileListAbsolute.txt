@@ -1,0 +1,21 @@
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\bin\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\bin\Debug\clsTarea2BLL.pdb
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\bin\Debug\clsTarea2DAL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\bin\Debug\clsTarea2DAL.pdb
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\obj\Debug\clsTarea2BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\obj\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\visual studio 2015\Projects\Tarea_2_RandallVenegas\clsTarea2BLL\obj\Debug\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\bin\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\bin\Debug\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\bin\Debug\clsTarea2DAL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\bin\Debug\clsTarea2DAL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Tercera Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\bin\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\bin\Debug\clsTarea2BLL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\bin\Debug\clsTarea2DAL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\bin\Debug\clsTarea2DAL.pdb
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.dll
+C:\Users\User\Documents\UAM\2019\II\PrograIV\Tarea_2_RandallVenegas - Cuarta Versión\clsTarea2BLL\obj\Debug\clsTarea2BLL.pdb
